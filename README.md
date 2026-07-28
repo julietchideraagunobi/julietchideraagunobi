@@ -144,7 +144,7 @@ MSc Health Science (Health Data Science)
 ## Let's Connect
 
 - GitHub: https://github.com/julietchideraagunobi
-- LinkedIn: *(linkedin.com/in/juliet-agunobi-259b09213)*
+- - LinkedIn: https://www.linkedin.com/in/juliet-agunobi-259b09213/
 
 ---
 
